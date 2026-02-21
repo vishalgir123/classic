@@ -1,0 +1,43 @@
+🔹 Types of Network Topology
+1️⃣ Bus Topology
+
+All devices are connected to a single cable (backbone).
+
+📌 Advantage: Easy and cheap
+📌 Disadvantage: If main cable fails, whole network stops
+
+2️⃣ Star Topology
+
+All devices connect to a central device (switch or hub).
+
+📌 Most commonly used
+📌 If one device fails, others still work
+📌 If central switch fails, network stops
+
+3️⃣ Ring Topology
+
+Devices are connected in a circular form.
+
+📌 Data moves in one direction
+📌 If one cable breaks, network can stop (in basic ring)
+
+4️⃣ Mesh Topology
+
+Every device connects to multiple devices.
+
+📌 Very reliable
+📌 Expensive
+📌 Used in large networks
+
+5️⃣ Tree Topology
+
+Combination of star + bus topology.
+
+📌 Used in large organizations
+
+🔹 Physical vs Logical Topology
+
+Physical Topology → Actual cable connection
+
+Logical Topology → How data moves inside the network
+
